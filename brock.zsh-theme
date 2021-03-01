@@ -1,1 +1,0 @@
-PROMPT='$fg[cyan]%1~$fg[white] '
